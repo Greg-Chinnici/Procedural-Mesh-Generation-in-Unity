@@ -4,8 +4,9 @@
 - min distance from vertex
 - max distance from vertex
 
-#rough idea
+# rough idea
 - have a arbitrairy center point
 - create the vertexes with a random radius around that point (bounded by max in min input)
 - connect the dots with lines
 - fill in mesh
+- [mesh generation tutorial](https://www.youtube.com/watch?v=eJEpeUH1EMg&t=300s)
